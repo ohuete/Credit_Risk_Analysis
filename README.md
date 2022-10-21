@@ -42,3 +42,4 @@ From the image below, we see that the accuracy score is about 92.5% and low risk
 <img width="784" alt="Screen Shot 2022-10-21 at 4 10 29 PM" src="https://user-images.githubusercontent.com/107595127/197303653-50bf317a-71c2-4665-b379-f0ba1888ccd1.png">
 
 ## Summary
+Of all the different models and methods used for credit risk analysis, the EasyEnsemble AdaBoost Classifier proved to be the best one. This model method generated the best results, however, it's precision on high risk analysis could improve. Nonetheless it is higher than the rest. Perhaps, additional methods could be used to detect high risk in order to get the precision on par with the low risk analysis.
